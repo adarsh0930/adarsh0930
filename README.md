@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh0930&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh0930" /> </p>
 
-- 🌱 I’m currently learning **React, Flask**
+- 🌱 I’m currently Learning and Developing
 
 - 🤝 I’m looking forward to help with any **MERN-Stack Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adarsh0930?tab=repositories](https://github.com/adarsh0930?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/adarsh0930?tab=repositories)
 
 - 📫 How to reach me **adarshsingh0930@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YP_QZvtr2KowkFIMLdfOctODABR9zJeU/view?usp=sharing](https://drive.google.com/file/d/1197NMMlL5akw6S9ywRdS_gQiEmzvv3qr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1197NMMlL5akw6S9ywRdS_gQiEmzvv3qr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
