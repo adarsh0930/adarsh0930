@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Learning and Developing
 
-- 🤝 I’m looking forward to help with any **MERN-Stack Project**
+- 🤝 I’m looking forward to collaborate for any **MERN-Stack Project**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adarsh0930?tab=repositories)
 
