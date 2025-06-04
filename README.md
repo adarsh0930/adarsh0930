@@ -7,11 +7,13 @@
 
 - 🤝 I’m looking forward to collaborate for any **MERN-Stack Project**
 
+- 💻 Check out my website [adarshsingh.me](https://www.adarshsingh.me)
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adarsh0930?tab=repositories)
 
 - 📫 How to reach me **adarshsingh0930@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1197NMMlL5akw6S9ywRdS_gQiEmzvv3qr/view?usp=sharing)
+- 📄 Go through my latest [Resume](https://drive.google.com/file/d/1IZ6Rvxs6pVsVNXMYdmTLqW9XV5Byl2VB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
