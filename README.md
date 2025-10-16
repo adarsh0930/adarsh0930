@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adarsh0930?tab=repositories)
 
-- 📫 How to reach me **adarshsingh0930@gmail.com**
+- 📫 How to reach me **adarshsingh0930@zohomail.in**
 
-- 📄 Go through my latest [Resume](https://drive.google.com/file/d/1IZ6Rvxs6pVsVNXMYdmTLqW9XV5Byl2VB/view?usp=drive_link)
+- 📄 Go through my latest [Resume](https://drive.google.com/file/d/1LbqWib6e_itadvPQ1hbImLrMxRGRNtbr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
