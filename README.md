@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh0930&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh0930" /> </p>
 
-- 🌱 I’m currently Learning and Developing
+- 🌱 I’m Developing.
 
 - 🤝 I’m looking forward to collaborate for any **MERN-Stack Project**
-
-- 💻 Check out my website [adarshsingh.me](https://www.adarshsingh.me)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/adarsh0930?tab=repositories)
 
 - 📫 How to reach me **adarshsingh0930@zohomail.in**
 
-- 📄 Go through my latest [Resume](https://drive.google.com/file/d/1LbqWib6e_itadvPQ1hbImLrMxRGRNtbr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
